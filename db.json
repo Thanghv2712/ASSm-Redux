@@ -1,0 +1,35 @@
+{
+  "users": [],
+  "products": [
+    {
+      "name": "Sản phẩm 1 update",
+      "price": "100",
+      "image": "http://res.cloudinary.com/dcapa78kv/image/upload/v1691488414/uploads/g9mhxj9irtdkvrzrv6nr.jpg",
+      "id": 1
+    },
+    {
+      "name": "sản phẩm 2",
+      "price": "123456",
+      "image": "https://anhdep123.com/wp-content/uploads/2021/01/anh-giay-adidas.jpg",
+      "id": 2
+    },
+    {
+      "image": "http://res.cloudinary.com/dcapa78kv/image/upload/v1691514574/uploads/nbqpw0zlfvfs83kxanhe.jpg",
+      "name": "san pham 4",
+      "price": "123456",
+      "id": 3
+    },
+    {
+      "image": "",
+      "name": "111122",
+      "price": "1111",
+      "id": 4
+    },
+    {
+      "image": "http://res.cloudinary.com/dcapa78kv/image/upload/v1691510604/uploads/gxyb9f1hiqxxqscb0f29.png",
+      "name": "anhthang",
+      "price": "1234",
+      "id": 5
+    }
+  ]
+}
